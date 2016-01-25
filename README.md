@@ -1,2 +1,2 @@
 # Read me!!
-<h2> first read me file for class </h2>
+<h2> First read me file for class </h2>
